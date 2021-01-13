@@ -1,0 +1,10 @@
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\bin\Debug\HDcd.exe.config
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\bin\Debug\HDcd.exe
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\bin\Debug\HDcd.pdb
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.Form1.resources
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.Properties.Resources.resources
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.csproj.GenerateResource.Cache
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.exe
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.pdb
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.csprojResolveAssemblyReference.cache
