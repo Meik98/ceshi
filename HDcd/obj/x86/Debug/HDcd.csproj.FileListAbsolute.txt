@@ -8,3 +8,6 @@ C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.exe
 C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.pdb
 C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\bin\Debug\Newtonsoft.Json.dll
 C:\Users\86182\Documents\C#语言学习\HDcd\HDcd\obj\x86\Debug\HDcd.csprojResolveAssemblyReference.cache
+C:\Users\86182\Source\Repos\Meik98\ceshi\HDcd\bin\Debug\HDcd.exe.config
+C:\Users\86182\Source\Repos\Meik98\ceshi\HDcd\obj\x86\Debug\HDcd.exe
+C:\Users\86182\Source\Repos\Meik98\ceshi\HDcd\obj\x86\Debug\HDcd.pdb
